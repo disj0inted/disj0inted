@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 👤 About Me
+## <div align="center">👤 About Me</div>
 <!--
 <div align="center">
 
@@ -52,7 +52,7 @@ I also tinker with programming and creative tools, exploring ways technology can
 -->
 ---
 
-## 🚧 Current Focus
+## <div align="center">🚧 Current Focus</div>
 💤 Getting more sleep  
 🖌 Learning Clip Studio Paint  
 🌱 Improving creative workflows<br>
@@ -62,7 +62,7 @@ I also tinker with programming and creative tools, exploring ways technology can
 
 ---
 
-## 🛠️ Skills & Tools
+## <div align="center">🛠️ Skills & Tools</div>
    
 **CREATIVE** 🎨 Digital illustration • Character design • Visual storytelling • Worldbuilding • Multimedia asset creation
 
